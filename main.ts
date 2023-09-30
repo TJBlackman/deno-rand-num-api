@@ -1,5 +1,5 @@
 // declare default min and max
-const DEFAULT_MAX = 100;
+const DEFAULT_MAX = 1000;
 const DEFAULT_MIN = 0;
 
 // start server
